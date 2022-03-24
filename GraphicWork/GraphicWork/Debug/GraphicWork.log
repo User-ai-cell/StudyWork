@@ -1,0 +1,11 @@
+﻿  GraphicWork.cpp
+C:\Users\romac\source\repos\GraphicWork\GraphicWork\GraphicWork.cpp(22,19): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\romac\source\repos\GraphicWork\GraphicWork\GraphicWork.cpp(22,13): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\romac\source\repos\GraphicWork\GraphicWork\GraphicWork.cpp(23,19): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\romac\source\repos\GraphicWork\GraphicWork\GraphicWork.cpp(23,13): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\romac\source\repos\GraphicWork\GraphicWork\GraphicWork.cpp(24,20): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\romac\source\repos\GraphicWork\GraphicWork\GraphicWork.cpp(24,13): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\romac\source\repos\GraphicWork\GraphicWork\GraphicWork.cpp(25,20): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\romac\source\repos\GraphicWork\GraphicWork\GraphicWork.cpp(25,13): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+MSVCRTD.lib(exe_winmain.obj) : error LNK2019: ссылка на неразрешенный внешний символ _WinMain@16 в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+C:\Users\romac\source\repos\GraphicWork\Debug\GraphicWork.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
