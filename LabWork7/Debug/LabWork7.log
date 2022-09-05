@@ -1,0 +1,4 @@
+﻿  LabWork7.cpp
+C:\Users\romac\source\repos\LabWork7\LabWork7.cpp(9,6): warning C4101: i: неиспользованная локальная переменная
+C:\Users\romac\source\repos\LabWork7\LabWork7.cpp(26,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  LabWork7.vcxproj -> C:\Users\romac\source\repos\LabWork7\Debug\LabWork7.exe

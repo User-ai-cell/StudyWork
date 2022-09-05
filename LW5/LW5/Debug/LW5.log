@@ -1,0 +1,8 @@
+﻿  LW5.cpp
+C:\Users\romac\source\repos\LW5\LW5\LW5.cpp(12,13): error C2082: переопределение формального параметра "size"
+C:\Users\romac\source\repos\LW5\LW5\LW5.cpp(15,11): error C2082: переопределение формального параметра "m"
+C:\Users\romac\source\repos\LW5\LW5\LW5.cpp(15,21): error C3078: размер массива должен быть указан в новых выражениях без инициализатора
+C:\Users\romac\source\repos\LW5\LW5\LW5.cpp(17,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\romac\source\repos\LW5\LW5\LW5.cpp(26,11): error C2082: переопределение формального параметра "m"
+C:\Users\romac\source\repos\LW5\LW5\LW5.cpp(26,20): error C3078: размер массива должен быть указан в новых выражениях без инициализатора
+C:\Users\romac\source\repos\LW5\LW5\LW5.cpp(35,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
