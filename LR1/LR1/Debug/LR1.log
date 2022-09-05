@@ -1,0 +1,4 @@
+﻿  LR1.cpp
+C:\Users\romac\source\repos\LR1\LR1\LR1.cpp(14,9): warning C4101: z2: неиспользованная локальная переменная
+C:\Users\romac\source\repos\LR1\LR1\LR1.cpp(13,9): warning C4101: z1: неиспользованная локальная переменная
+  LR1.vcxproj -> C:\Users\romac\source\repos\LR1\Debug\LR1.exe
